@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { setTitle } from '@/utils'
+
 setTitle('Quizz | Home')
 </script>
 
